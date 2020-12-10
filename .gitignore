@@ -1,0 +1,4 @@
+*.out
+/main
+output.txt
+test1.in
